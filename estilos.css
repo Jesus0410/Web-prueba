@@ -1236,7 +1236,7 @@ textarea {
   .containerflex {
     display: flex;
     flex-direction;
-    
+    padding:6%;
   }
 
   .redes_footer {
