@@ -1259,13 +1259,11 @@ textarea {
   }
 
   .redes_footer {
-    margin-top: 4%;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    position:hidden;
   }
 
   .socialfooter {
+    position:hidden;
     margin: 0 auto;
   }
 
@@ -1314,7 +1312,7 @@ textarea {
   }
 }
 
-/* Vista 4k */
+/* vista 4k */
 
 @media screen and (max-width: 2561px) {
   .img-r{
