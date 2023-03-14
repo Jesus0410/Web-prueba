@@ -1234,8 +1234,7 @@ textarea {
   }
 
   .containerflex {
-    display: flex;
-    flex-direction: column;
+    position: hidden;
   }
 
   .redes_footer {
