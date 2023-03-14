@@ -1270,6 +1270,7 @@ textarea {
   .contacto-tb-m {
     text-align: center;
     margin-top: 4%;
+    position:hidden;
   }
 
   .container2 h4,
