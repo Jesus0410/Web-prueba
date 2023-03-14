@@ -1234,7 +1234,9 @@ textarea {
   }
 
   .containerflex {
-     display: flex;
+     flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
 
   .redes_footer {
@@ -1255,7 +1257,9 @@ textarea {
   }
 
   .container-formulario {
-    position: hidden;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
 
   .container-formulario-mb {
