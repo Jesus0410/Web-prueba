@@ -1159,7 +1159,7 @@ textarea {
   }
 }
 
-/* Vista Celulares */
+/* vista celulares */
 @media screen and (max-width: 530px) {
   .head_trabajos {
     display: flex;
@@ -1264,18 +1264,15 @@ textarea {
 
   .socialfooter {
     position:hidden;
-    margin: 0 auto;
   }
 
   .contacto-tb-m {
-    text-align: center;
-    margin-top: 4%;
     position:hidden;
   }
 
   .container2 h4,
   .container h4 {
-    font-size: 16px;
+    position: hidden;
   }
 
   .container-formulario {
