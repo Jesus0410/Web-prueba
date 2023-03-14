@@ -587,15 +587,7 @@ textarea {
 .parrafo a{
   text-decoration: none;
 }
-.creditos{
-  background: white;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  gap: 30px;
-  
-  font-size: 16px;
-}
+
 .derechos{
   color: #331B3B;
 }
@@ -1129,13 +1121,6 @@ textarea {
   .container_formulario {
     grid-column: 1;
   }
-  .creditos{
-    padding: 5% 0;
-    align-items: center;
-    flex-direction: column;
-    gap: 15px;
-    font-size:20px;
-  }
 }
 
 @media screen and (max-width: 642px) {
@@ -1299,16 +1284,9 @@ textarea {
     width: calc(100%-10px);
     margin: 4% 0;
   }
-  .creditos{
-    font-size: 16px;
-  }
 
 }
-@media screen and (max-width: 321px) {
-  .creditos{
-    font-size: 12px;
-  }
-}
+
 
 /* vista 4k */
 
