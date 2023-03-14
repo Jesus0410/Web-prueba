@@ -1234,31 +1234,30 @@ textarea {
   }
 
   .containerflex {
-    position:hidden;
+    display: flex;
+    flex-direction;
+    
   }
 
   .redes_footer {
-    position:hidden;
+    display:none;
   }
 
   .socialfooter {
-    position:hidden;
+    display:none;
   }
 
   .contacto-tb-m {
-    position:hidden;
+    display:none;
   }
 
   .container2 h4,
   .container h4 {
-    position: hidden;
+    display:none
   }
 
   .container-formulario {
-    display:flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    display:none;
   }
 
   .container-formulario-mb {
